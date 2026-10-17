@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="似顔絵イラスト">
+  <circle cx="100" cy="100" r="100" fill="#d5eefb"/>
+  <circle cx="100" cy="95" r="60" fill="#6f5a44"/>
+  <rect x="47" y="98" width="13" height="44" rx="6.5" fill="#6f5a44"/>
+  <rect x="140" y="98" width="13" height="44" rx="6.5" fill="#6f5a44"/>
+  <path d="M55 190 Q 60 152 100 152 Q 140 152 145 190 L 145 200 L 55 200 Z" fill="#7cc4ec"/>
+  <circle cx="100" cy="112" r="45" fill="#fde3d2"/>
+  <path d="M55 112 Q 55 60 100 60 Q 145 60 145 112 Q 129 87 116 103 Q 100 76 84 103 Q 71 87 55 112 Z" fill="#6f5a44"/>
+  <circle cx="85" cy="120" r="4.6" fill="#4a3a2e"/>
+  <circle cx="116" cy="120" r="4.6" fill="#4a3a2e"/>
+  <circle cx="75" cy="131" r="6.4" fill="#f6b9ab" opacity=".75"/>
+  <circle cx="126" cy="131" r="6.4" fill="#f6b9ab" opacity=".75"/>
+  <path d="M94 138 Q 100 144 106 138" fill="none" stroke="#c98a6b" stroke-width="3" stroke-linecap="round"/>
+  <circle cx="129" cy="77" r="7" fill="#7cc4ec"/>
+  <circle cx="140" cy="86" r="4.4" fill="#a9def8"/>
+  <path d="M62 132 q 7 4 3 11 q 8 2 9 -3 q 1 -5 -5 -7 z" fill="none" stroke="#6f5a44" stroke-width="2.4" stroke-linecap="round"/>
+</svg>

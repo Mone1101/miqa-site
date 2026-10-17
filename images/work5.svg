@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600">
+  <rect width="800" height="600" fill="#fbf4ea"/>
+  <rect x="80" y="118" width="190" height="66" rx="14" fill="#fffaf2" stroke="#dcc49a" stroke-width="4"/>
+  <path d="M104 118 L104 78 M244 118 L244 78" stroke="#dcc49a" stroke-width="3"/>
+  <circle cx="132" cy="168" r="11" fill="#c9a97f"/>
+  <circle cx="120" cy="151" r="4.6" fill="#c9a97f"/>
+  <circle cx="132" cy="146" r="4.6" fill="#c9a97f"/>
+  <circle cx="144" cy="151" r="4.6" fill="#c9a97f"/>
+  <text x="174" y="164" font-family="'Hiragino Kaku Gothic ProN','Yu Gothic',sans-serif" font-size="23" font-weight="700" fill="#8a6b45">まちぱん</text>
+  <circle cx="620" cy="352" r="46" fill="#66666e"/>
+  <path d="M588 322 L592 290 L616 310 Z" fill="#55555d"/>
+  <path d="M640 306 L652 282 L650 314 Z" fill="#55555d"/>
+  <ellipse cx="620" cy="430" rx="72" ry="76" fill="#66666e"/>
+  <path d="M606 352 q6 6 12 0" fill="none" stroke="#2b2b31" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M630 352 q6 6 12 0" fill="none" stroke="#2b2b31" stroke-width="3.4" stroke-linecap="round"/>
+  <path d="M620 368 l9 0 -4 6 z" fill="#f2a2a2"/>
+  <path d="M566 350 h-26 M566 358 l-24 9 M674 350 h26 M674 358 l24 9" fill="none" stroke="#c9c9c9" stroke-width="2.6" stroke-linecap="round"/>
+  <rect x="0" y="404" width="800" height="16" rx="8" fill="#c9a97f"/>
+  <rect x="0" y="420" width="800" height="180" fill="#eadcc6"/>
+  <g transform="rotate(-12 250 372)">
+    <ellipse cx="250" cy="372" rx="118" ry="28" fill="#d9a86c"/>
+    <path d="M180 358 l14 26 M216 352 l14 26 M252 348 l14 25 M286 345 l14 24" fill="none" stroke="#b98a52" stroke-width="7.5" stroke-linecap="round"/>
+  </g>
+  <circle cx="430" cy="360" r="42" fill="#d9a86c"/>
+  <path d="M408 344 q22 18 44 0" fill="none" stroke="#b98a52" stroke-width="7" stroke-linecap="round"/>
+  <path d="M414 286 q10 -14 0 -26 M440 290 q10 -14 0 -26" fill="none" stroke="#cbb9a4" stroke-width="4.2" stroke-linecap="round" opacity=".75"/>
+  <ellipse cx="530" cy="374" rx="44" ry="20" fill="#d9a86c"/>
+  <path d="M514 366 l32 -10" stroke="#b98a52" stroke-width="6" stroke-linecap="round"/>
+</svg>
